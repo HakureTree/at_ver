@@ -1,1 +1,1 @@
-1.1.5 (2020.11.1) *The loader has been updated, so use the new one to get this update!!!
+1.1.6 (2020.11.6)
